@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed May 02 14:23:26 ICT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0163-1fbc-0626-000018f77198 
+on database directory E:\java\sampledb2 with class loader WebAppClassLoader=Spring MVC Web Application@42435b98 
+Loaded from file:/C:/Users/dell/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=C:\Users\dell\spring-mvc
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
